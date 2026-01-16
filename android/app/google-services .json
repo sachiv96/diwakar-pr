@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697702565064",
+    "project_id": "konneqted",
+    "storage_bucket": "konneqted.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697702565064:android:0e40175a21520dc0d911fd",
+        "android_client_info": {
+          "package_name": "com.konneqted.diwakar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ElYvzC9MWqsoxeIYaVgGTWOn2KCZk0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
